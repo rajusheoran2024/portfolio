@@ -31,7 +31,7 @@ function Hero() {
           <a
              href="/assets/Raju_Sheoran_Full_Stack_Developer.pdf"
             target="_blank"
-            rel="noreferrer"
+            download
             className="bg-green-600 dark:bg-green-500 text-white dark:text-black px-6 py-3 rounded font-medium hover:bg-green-700 dark:hover:bg-green-400 transition">
             Download Resume
           </a>
