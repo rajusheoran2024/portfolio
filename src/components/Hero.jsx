@@ -29,7 +29,7 @@ function Hero() {
         <div className="flex flex-wrap gap-4">
 
           <a
-            href="/assets/Raju_Sheoran_Full_Stack_Developer.pdf"
+            href="/Raju_Sheoran_Full_Stack_Developer.pdf"
             target="_blank"
             rel="noreferrer"
             className="
