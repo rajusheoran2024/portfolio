@@ -29,21 +29,14 @@ function Hero() {
         <div className="flex flex-wrap gap-4">
 
           <a
-            href="/Raju_Sheoran_Full_Stack_Developer.pdf"
+             href="/assets/Raju_Sheoran_Full_Stack_Developer.pdf"
             target="_blank"
             rel="noreferrer"
-            className="
-    bg-green-600 dark:bg-green-500
-    text-white dark:text-black
-    px-6 py-3 rounded font-medium
-    hover:bg-green-700 dark:hover:bg-green-400
-    transition
-  "
-          >
-            View Resume
+            className="bg-green-600 dark:bg-green-500 text-white dark:text-black px-6 py-3 rounded font-medium hover:bg-green-700 dark:hover:bg-green-400 transition">
+            Download Resume
           </a>
 
-          <a
+          {/* <a
             href="/assets/Raju_Sheoran_Full_Stack_Developer.pdf"
             download
             className="
@@ -55,7 +48,7 @@ function Hero() {
             "
           >
             Download Resume
-          </a>
+          </a> */}
 
         </div>
       </div>
