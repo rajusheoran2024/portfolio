@@ -26,7 +26,7 @@ function Experience() {
           {/* Experience 2 */}
           <div>
             <p className="font-medium text-gray-900 dark:text-white">
-              Software Developer – Mega Tech Boat
+              Software Developer – My Tech Boat
             </p>
             <p className="mt-1 text-gray-700 dark:text-gray-400">
               Developed an offline-first desktop POS system and optimized

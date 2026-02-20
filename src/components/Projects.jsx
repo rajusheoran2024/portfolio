@@ -41,7 +41,7 @@ function Projects() {
             </h3>
 
             <p className="text-gray-700 dark:text-gray-400 mb-2">
-              Company Project – Mega Tech Boat
+              Company Project – My Tech Boat
             </p>
 
             <p className="text-gray-700 dark:text-gray-400 mb-3">
